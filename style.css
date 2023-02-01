@@ -1,0 +1,50 @@
+.color {
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.div0 {
+  width: 30px;
+  height: 30px;
+}
+
+.div1 {
+  width: 30px;
+  height: 30px;
+}
+
+.div2 {
+  width: 30px;
+  height: 30px;
+}
+
+.div3 {
+  width: 30px;
+  height: 30px;
+}
+
+#pixel-board {
+  margin-top: 10px;
+  width: 210px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#color-palette {
+  margin-top: 10px;
+  width: 210px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#painel-botoes {
+  margin-top: 10px;
+  width: 210px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#title {
+  margin-top: 10px;
+  text-align: center;
+}
